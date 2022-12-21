@@ -1,1 +1,1 @@
-group project
+Simple Shell group project
